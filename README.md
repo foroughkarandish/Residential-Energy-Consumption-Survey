@@ -1,4 +1,4 @@
-# Residential-Energy-Consumption-Surveyn
+# Residential-Energy-Consumption-Survey
 
 The Residential Energy Consumption Survey (RECS) is a national area-probability sample survey that statistically identifies housing units across the United States to collect energy-related data for occupied primary residential units.
 
